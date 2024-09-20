@@ -1,5 +1,5 @@
 import React from 'react'
-import QtyCard from '../../components/quantityCard/qtyCard'
+import QtyCard from '../../components/quantityCard/QtyCard'
 import style from './Home.module.css'
 import Sales from '../../components/sales/Sales'
 import TopItemCategories from '../../components/topItemCategory/TopItemCategories'
