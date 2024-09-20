@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import AccountSummary from '../../components/accountSummary/AccountSummary'
-import Button from '../../components/button/Button'
+import Button from '../../components/Button/Button'
 import style from './Account.module.css'
 import { months } from './data'
 import { useGetProductsQuery } from '../../redux/APIs/productApi'
