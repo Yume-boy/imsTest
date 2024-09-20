@@ -5,7 +5,7 @@ import Sales from '../../components/sales/Sales'
 import TopItemCategories from '../../components/topItemCategory/TopItemCategories'
 import StockStatus from '../../components/stockStatus/StockStatus'
 import StoreList from '../../components/storeList/StoreList'
-import Button from '../../components/Button/Button'
+import Button from '../../components/Button/Button.jsx'
 import {
   useGetStoresOverviewQuery,
   useGetStoresQuery,
